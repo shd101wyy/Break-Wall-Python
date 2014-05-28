@@ -1,6 +1,8 @@
 #### Break the Wall
 #### 翻qiang python 脚本
 
+安装时需要良好的网络环境
+
 windows 下使用方法
 -1 如果你没有安装过python
 	去 https://www.python.org/downloads/
