@@ -3,10 +3,11 @@
 
 安装时需要良好的网络环境
 
-windows 下使用方法
+##### windows 下使用方法
+```
 -1 如果你没有安装过python
-	去 https://www.python.org/downloads/
-	下载并且安装 python 2.7
+	去 https://www.python.org/downloads/  
+	下载并且安装 python 2.7  
 -2 
 	从我这里下载 main.py 
 
@@ -16,7 +17,9 @@ windows 下使用方法
 
 	例如
 	python C:\Downloads\main.py
+```
 
-
-.nix 下使用方法
+#####.nix 下使用方法
+```
 sudo python 下载的main.py的路径
+```
