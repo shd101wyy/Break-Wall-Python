@@ -23,3 +23,8 @@
 ```
 sudo python 下载的main.py的路径
 ```
+
+##### 注意
+```
+安装后的一些网站， 如facebook等网站, 需要用https://www.facebook.com, 不要用 http://
+```
